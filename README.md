@@ -42,6 +42,11 @@ The `screenshots/` folder shows:
 - Successful upload with encryption (`test.txt.enc`)
 - Successful download with decryption (`decrypted_test.txt`)
 - The `uploads/` folder with both files
+### 📸 Screenshots
+
+1️⃣ POST upload success — ![POST Upload](screenshots/postman_upload.png)  
+2️⃣ GET download success — ![GET Download](screenshots/postman_download.png)  
+3️⃣ `uploads/` folder with encrypted & decrypted files — ![Uploads Folder](screenshots/uploads_folder.png)
 
 ---
 
